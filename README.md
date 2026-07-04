@@ -38,7 +38,7 @@ To run the application locally, please follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ayushkumar9122006/wise-wallet
+   git clone https://github.com/ayushkumar9122006/wise-wallet.git
    ```
 
 2. Install dependencies for the Django backend:
